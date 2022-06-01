@@ -23,10 +23,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/RoyalKrrishna'>@RoyalKrrishna</a></b>
+👨‍💻 Created By: <a href='https://t.me/Akshay_Chand'>Akshay Chand</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/RoyalKrrishna'>@RoyalKrrishna</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Akshay_Chand'>Akshay Chand</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -38,7 +38,7 @@ i Popcorn Movie Bot Here.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @RoyalKrrishna</a></b>
+<a>Made With ❤ By @Akshay_Chand</a></b>
 """
 
 
@@ -49,7 +49,7 @@ i Popcorn Movie Bot Here.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @RoyalKrrishna</a></b>
+<a>Made With ❤ By @Akshay_Chand</a></b>
 """
 
 
