@@ -81,7 +81,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup")
 					],
 					[
-						InlineKeyboardButton("Developer", url="https://t.me/RoyalKrrishna"),
+						InlineKeyboardButton("Developer", url="https://t.me/Akshay_Chand"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -99,7 +99,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("Our Channel", url="https://t.me/iP_Movies")
 					], 
                                         [
-						InlineKeyboardButton("Owner", url="https://t.me/RoyalKrrishna"),
+						InlineKeyboardButton("Owner", url="https://t.me/Akshay_Chand"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -117,7 +117,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("About", callback_data="About_msg")
 					],
 					[
-						InlineKeyboardButton("Support", url="https://t.me/RoyalKrrishna"),
+						InlineKeyboardButton("Support", url="https://t.me/Akshay_Chand"),
 						InlineKeyboardButton("Channel", url="https://t.me/iP_Movies")
 					]
 				]
